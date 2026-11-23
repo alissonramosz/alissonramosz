@@ -24,7 +24,7 @@ Full application repositories remain private. The linked case studies document t
 ## Open source
 
 - **[credit-ledger](https://github.com/alissonramosz/credit-ledger):** reserve, settle and release credits for async and AI jobs. Idempotent, with a PostgreSQL store and a test suite that runs against a real database.
-- **[handoff-evals](https://github.com/alissonramosz/handoff-evals):** multilingual test cases and a scorer for AI enquiry routing and human handoff (EN, PT, ES, RU), with a runner for any OpenAI-compatible model.
+- **[handoff-evals](https://github.com/alissonramosz/handoff-evals):** evaluate when an AI assistant should answer or hand off to a person. 100 EN/PT/ES/RU cases plus 43 Brazilian Portuguese real-estate cases, with lead-card checks, published runs from four Gemini models, error analysis and a promptfoo recipe.
 
 ## Earlier AI work
 
