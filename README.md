@@ -21,6 +21,10 @@ I build and operate AI-enabled products, combining hands-on implementation with 
 
 Full application repositories remain private. The linked case studies document the delivered work, my role and selected product and engineering decisions.
 
+## Open source
+
+- **[credit-ledger](https://github.com/alissonramosz/credit-ledger):** reserve, settle and release credits for async and AI jobs. Idempotent, with a PostgreSQL store and a test suite that runs against a real database.
+
 ## Earlier AI work
 
 - **AI video workflows:** collaboration at DarkLab on generation automation, scripts, content research and audio-aligned visual prompts, alongside user support.
