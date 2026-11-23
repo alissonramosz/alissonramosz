@@ -24,6 +24,7 @@ Full application repositories remain private. The linked case studies document t
 ## Open source
 
 - **[credit-ledger](https://github.com/alissonramosz/credit-ledger):** reserve, settle and release credits for async and AI jobs. Idempotent, with a PostgreSQL store and a test suite that runs against a real database.
+- **[handoff-evals](https://github.com/alissonramosz/handoff-evals):** multilingual test cases and a scorer for AI enquiry routing and human handoff (EN, PT, ES, RU), with a runner for any OpenAI-compatible model.
 
 ## Earlier AI work
 
