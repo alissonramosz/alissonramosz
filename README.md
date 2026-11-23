@@ -9,7 +9,7 @@ I build and operate AI-enabled products, combining hands-on implementation with 
 | Project | Work | Role and stage |
 | --- | --- | --- |
 | [TTSELEVEN](https://github.com/alissonramosz/ttseleven-case-study) | Text-to-speech, generation workflows, customer credits and audio history | Owner / developer / operator · live, marketplace sales |
-| [Flowork](https://github.com/alissonramosz/flowork-case-study) | Real-estate CRM, property operations, sales workflows and AI-assisted service | Product-development partner / full-stack builder · partner-agency pilot |
+| [Flowork](https://github.com/alissonramosz/flowork-case-study) | Real-estate CRM, property operations, sales workflows and AI-assisted service | Product-development partner / full-stack builder · pilot at partner's agency Imobgreen |
 
 ## Client work
 
